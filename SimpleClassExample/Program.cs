@@ -36,6 +36,10 @@ namespace SimpleClassExample
 
             Motorcycle mc = new Motorcycle();
             mc.PopAWheely();
+
+            Console.WriteLine();
+
+            
         }
     }
 }
